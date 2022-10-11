@@ -82,3 +82,8 @@ table {
   bottom: 40px;
   right: 5px;
 }
+
+.equipe{
+    float: center;
+    height: 200px;
+}
