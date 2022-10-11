@@ -35,7 +35,7 @@ h2 {
   background-color: #FF5850;
 }
 
-.beware{
+.coffre2{
   height: 300px;
   float: right;
   margin-left: 5px;
@@ -61,7 +61,7 @@ table {
   text-align : center;
 }
 
-.jeune{
+.coffre{
   float: left;
   height: 150px;
   margin-right: 5px;
@@ -84,6 +84,7 @@ table {
 }
 
 .equipe{
-    float: center;
-    height: 200px;
+    margin-left:auto;
+    margin-right:auto;
+    height: 500px;
 }
