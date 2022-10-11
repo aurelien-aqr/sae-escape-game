@@ -37,8 +37,8 @@ h2 {
 
 .coffre2{
   height: 300px;
-  float: right;
-  margin-left: 5px;
+  margin-left: auto;
+    margin-right:auto;
 }
 
 .skill{
@@ -86,5 +86,5 @@ table {
 .equipe{
     margin-left:auto;
     margin-right:auto;
-    height: 500px;
+    height: 400px;
 }
