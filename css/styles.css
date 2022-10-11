@@ -36,9 +36,10 @@ h2 {
 }
 
 .coffre2{
-  height: 300px;
+  display:block;
+  width:50%;
   margin-left: auto;
-    margin-right:auto;
+  margin-right:auto;
 }
 
 .skill{
@@ -84,7 +85,8 @@ table {
 }
 
 .equipe{
+    display:block;
     margin-left:auto;
     margin-right:auto;
-    height: 400px;
+    width:50%;
 }
