@@ -1,0 +1,84 @@
+@font-face {
+    font-family: rubik;
+}
+h3 {
+  font-style:italic;
+  color:black;
+  padding: 10px 0px;
+  border: 1px solid #CCCCCC;
+  
+}
+
+body {
+  background-color: #838892;
+  width: 600px;
+  line-height: 150%;
+  margin: auto;
+}
+
+p {
+  text-indent: 5px;
+  margin: 30px;
+}
+
+
+h2 {
+  font-family: rubik;
+  text-align: center;
+}
+
+.pair {
+  background-color: #5BBDBF;
+}
+
+.impair {
+  background-color: #FF5850;
+}
+
+.beware{
+  height: 300px;
+  float: right;
+  margin-left: 5px;
+}
+
+.skill{
+  color: red;
+  
+}
+thead{
+  background-color: #00AAFF;
+}
+
+table .skill{
+  color: #640051;
+  padding: 0px 5px;
+}
+
+tbody tr:nth-child(odd) {background-color: white;}
+tbody tr:nth-child(even) {background-color: #CCC;}
+
+table {
+  text-align : center;
+}
+
+.jeune{
+  float: left;
+  height: 150px;
+  margin-right: 5px;
+}
+
+.parajeune{
+  clear: left;
+}
+
+.twitter{
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+}
+
+.facebook{
+  position: fixed;
+  bottom: 40px;
+  right: 5px;
+}
